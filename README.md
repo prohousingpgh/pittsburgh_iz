@@ -14,7 +14,7 @@ We run a Difference-in-difference on our dataset to estimate the effect of IZ on
 
 This analysis is limited by the small size of our dataset, as only 109 buildings of 20 units or more were completed citywide between January 2012 and November 2024, with only 29 of those buildings in Lawrenceville, South Side Flats, and Strip District.
 
-The researh study was authored by:
+The research study was authored by:
 Jack Billings and David Vatz
 
 This data was compiled by:
