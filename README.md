@@ -21,6 +21,8 @@ This data was compiled by:
 Pro-Housing Pittsburgh volunteers, including: Chris Beam, Jack Billings, John Dellape, Lucas Godshalk, Kuanyu Lai, Nick Rizzio, David Vatz, and Amy Zaiss; from the
 City Controller’s office, Controller Rachael Heisler and Research Director Mark Ptak; and The Western Pennsylvania Regional Data Center for their archive of permit data
 
+&copy; 2024 Pro-Housing Pittsburgh
+
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
 This work is licensed under a
