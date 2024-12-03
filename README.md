@@ -20,9 +20,11 @@ We run a Difference-in-difference on our dataset to estimate the effect of IZ on
 This analysis is limited by the small size of our dataset, as only 109 buildings of 20 units or more were completed citywide between January 2012 and November 2024, with only 29 of those buildings in Lawrenceville, South Side Flats, and Strip District.
 
 **The research study was authored by**
+
 Jack Billings (University of East Anglia, Pro-Housing Pittsburgh) and David Vatz (Pro-Housing Pittsburgh)
 
 **Special Thanks To**
+
 Volunteers from Pro-Housing Pittsburgh, including: Chris Beam, Jack Billings, John Dellape, Lucas Godshalk, Kuanyu Lai, Nick Rizzio, David Vatz, and Amy Zaiss; from the
 City Controller’s office, Controller Rachael Heisler and Research Director Mark Ptak; and The Western Pennsylvania Regional Data Center for their archive of permit data
 
