@@ -1,0 +1,128 @@
+neighborhood,address,housing_units,project_name,completed,min_issued_month,min_issued_year
+Strip District,"2855 RAILROAD ST, PITTSBURGH, PA 15222",300,3 Crossings Phase II ,No,11,2024
+Central Oakland,"262 MCKEE PL, PITTSBURGH, PA 15213",169,262 McKee Place,No,8,2024
+North Oakland,"450 MELWOOD AVE, PITTSBURGH, PA 15213",42,450 Melwood,No,7,2024
+Lower Lawrenceville,"3812 FOSTER ST, PITTSBURGH, PA 15201",334,32 39th Street Redevelopment,No,6,2024
+South Side Flats,"1900-2000 MARY ST, PITTSBURGH, PA 15203",200,Walnut Capital Mary Street,No,5,2024
+South Side Flats,"2100 JANE ST, PITTSBURGH, PA 15203",60,Walnut Capital Jane Street,No,5,2024
+North Oakland,"435 MELWOOD AVE, PITTSBURGH, PA 15213",166,The Parker,No,5,2024
+South Oakland,"3221 FORBES AVE, PITTSBURGH, PA 15213",48,Mosaic,No,4,2024
+Lower Lawrenceville,"3634 PENN AVE, PITTSBURGH, PA 15201",50,Unnamed New Burgh Real Estate Project,No,12,2023
+Strip District,"2929 SMALLMAN ST, PITTSBURGH, PA 15201",234,The Maxx,No,12,2023
+Strip District,"2121 SMALLMAN ST, PITTSBURGH, PA 15201",288,Brickworks,No,12,2023
+Strip District,"2930 SMALLMAN ST, PITTSBURGH, PA 15201",89,2926 Smallman Street,No,10,2023
+Strip District,"3129 LIBERTY AVE, PITTSBURGH, PA 15201",21,3129 Liberty,No,9,2023
+South Side Flats,"2329 WHARTON ST,  PITTSBURGH, PA 15203",378,Greystar Wharton Street,No,7,2023
+Strip District,"50 26TH ST, PITTSBURGH, PA 15222",179,50 - 26TH Street,No,5,2023
+Upper Lawrenceville,"5303 BUTLER ST, PITTSBURGH, PA 15201",267,Albion Lawrenceville,No,4,2023
+Central Lawrenceville,"108 43RD ST, PITTSBURGH, PA 15201",97,Unnamed Camp Eight Capital Project,No,4,2023
+Central Northside,"810 W NORTH AVE, PITTSBURGH, PA 15233",36,Allegheny Branch House Lofts,Yes,12,2022
+Middle Hill,"2033 CENTRE AVE, PITTSBURGH, PA 15219",40,New Granada Square Apartments,Yes,10,2022
+South Side Flats,"2695 SOUTH WATER ST, PITTSBURGH, PA 15203",247,The Park,Yes,8,2022
+Terrace Village,"10 TURRENTINE PL #208, PITTSBURGH, PA 15213",59,Turpentine Place - Terrace Village - HACP,Yes,6,2022
+Strip District,,120,Waterman,No,5,2022
+Strip District,,,Mercer,No,5,2022
+Strip District,"2300 PENN AVE, PITTSBURGH, PA 15222",21,Penn 23,No,4,2022
+North Oakland,"419 MELWOOD AVE, PITTSBURGH, PA 15213",148,The Julian,No,1,2022
+East Liberty,"205 N BEATTY ST, PITTSBURGH, PA 15206",42,Mellon's Orchard South,Yes,11,2021
+Central Lawrenceville,"256 44TH ST, PITTSBURGH, PA 15201",46,Holy Family Church Redevelopment,No,10,2021
+Strip District,"77 31ST ST, PITTSBURGH, PA 15201",625,31st Street Studios,No,8,2021
+Central Oakland,"3510 FORBES AVE, PITTSBURGH, PA 15213",296,HERE Pittsburgh,Yes,8,2021
+Strip District,"3205 PENN AVE #634, PITTSBURGH, PA 15201",112,Mulberry Lofts,Yes,7,2021
+California-Kirkbride,"1144 KIRKBRIDE ST #411, PITTSBURGH, PA 15212",30,Cal-Bride Place,Yes,7,2021
+Strip District,"3151 SMALLMAN ST, PITTSBURGH, PA 15201",255,Crucible Lofts,No,7,2021
+East Liberty,"200 AMBER ST, PITTSBURGH, PA 15206",30,200 Amber St Apartments,Yes,7,2021
+Garfield,"327 N NEGLEY AVE #233, PITTSBURGH, PA 15206",45,Carina Apartments,Yes,6,2021
+Strip District,"2635 PENN AVE #508, PITTSBURGH, PA 15222",49,Forte Pittsburgh,Yes,3,2021
+Central Business District,"429 FORBES AVE, PITTSBURGH, PA 15219",174,Allegheny Apartments,Yes,2,2021
+Crawford-Roberts,"1709 5TH AVE #101, PITTSBURGH, PA 15219",51,1709 Fifth,Yes,2,2021
+East Liberty,"5819 CENTRE AVE PITTSBURGH, PA 15206",161,Industry Pittsburgh,Yes,2,2021
+Central Business District,"908 PENN AVE, PITTSBURGH, PA 15222",30,908 Penn Ave,Yes,12,2020
+Lower Lawrenceville,"3350 PENN AVE, PITTSBURGH, PA 15201",35,Sixth Ward Flats,Yes,6,2020
+Strip District,"2554 SMALLMAN ST, PITTSBURGH, PA 15222",27,2554 Smallman,Yes,6,2020
+North Shore,"220 NORTH SHORE DR, PITTSBURGH, PA 15212",108,North Shore Flats,Yes,6,2020
+Strip District,"2239 RAILROAD ST, PITTSBURGH, 15222",220,Helm on the Allegheny,Yes,5,2020
+Central Business District,"625 STANWIX ST, PITTSBURGH, 15222",137,The Venue,Yes,2,2020
+Terrace Village,"239 BLAKEY CT #306, PITTSBURGH, PA 15213",30,Blakely Court - Terrace Village,Yes,12,2019
+Larimer,"135 WINSLOW ST, PITTSBURGH, PA 15206",35,Cornerstone Village,Yes,12,2019
+Lower Lawrenceville,"3931 FOSTER ST, PITTSBURGH, PA 15201",343,Arsenal 201 Phase 2,Yes,11,2019
+Central Northside,"840 W NORTH AVE, PITTSBURGH, 15233",36,Stables Lofts,Yes,11,2019
+South Side Flats,"1700 E CARSON ST, PITTSBURGH, PA 15203",47,The Revival On Carson,Yes,10,2019
+Central Business District,"314 4TH AVE, PITTSBURGH, PA 15222",140,The Commonwealth Building,Yes,10,2019
+Central Northside,"30 W NORTH AVE, PITTSBURGH, PA 15212",45,The Residences @ the Garden,Yes,9,2019
+South Side Flats,"2984 SIDNEY ST, PITTSBURGH, PA 15203",280,Connection at South Side,Yes,7,2019
+Central Business District,"625 1ST AVE, PITTSBURGH, PA 15219",205,Terminal 21,Yes,7,2019
+Polish Hill,"3234 LIBERTY AVE, PITTSBURGH, PA 15201",377,Brewers Block,Yes,7,2019
+Homewood South,"7002 KELLY ST, PITTSBURGH, 15208",30,Kelly Street Housing Authority Project,Yes,6,2019
+Strip District,"1679 WATERFRONT PL, PITTSBURGH, PA 15222",178,The District,Yes,5,2019
+Strip District,"1759 WATERFRONT PL, PITTSBURGH, PA 15222",264,The District,Yes,5,2019
+East Liberty,"5820 STATION ST, PITTSBURGH, PA ",24,Mellon's Orchard South,Yes,5,2019
+North Oakland,"4614 5TH AVE, PITTSBURGH, PA 15213",231,Fairfax Apartments,Yes,5,2019
+Strip District,"2908 SMALLMAN ST, PITTSBURGH, PA 15201",30,Smallman Flats,Yes,3,2019
+Lower Lawrenceville,"3725 BUTLER ST, PITTSBURGH, PA 15201",24,Lawrenceville Lofts,Yes,12,2018
+Central Business District,"209 9TH ST, PITTSBURGH, PA 15222",44,The William,Yes,11,2018
+Central Business District,"800 PENN AVE, PITTSBURGH, PA 15222",42,Press House Apartments,Yes,10,2018
+Central Business District,"352 OLIVER AVE, PITTSBURGH, PA 15222",59,Lumière,Yes,8,2018
+Strip District,"1627 PENN AVE, PITTSBURGH, PA 15222",72,1627 on the Strip,Yes,6,2018
+Central Business District,"711 PENN AVE, PITTSBURGH, PA 15222",140,Eighth & Penn,Yes,6,2018
+South Side Flats,"1611 E CARSON ST, PITTSBURGH, PA 15203",23,,Yes,5,2018
+Strip District,"2545 PENN AVE, PITTSBURGH, PA 15222",32,The Refinery,Yes,3,2018
+Crawford-Roberts,"328 MILLER ST, PITTSBURGH, PA 15219",36,Miller Street Apartments,Yes,2,2018
+Fineview,"1660 SANDUSKY CT, PITTSBURGH, PA 15212",51,Sandstone Quarry Apartments,Yes,12,2017
+South Shore,"160 E STATION SQUARE DR, PITTSBURGH, PA ",319,Glasshouse Pittsburgh,Yes,11,2017
+East Liberty,"6434 STATION ST, PITTSBURGH, PA 15206",45,Station Street Home,Yes,9,2017
+Central Oakland,"3423 FORBES AVE, PITTSBURGH, PA 15213",197,The Bridge-on-Forbes,Yes,6,2017
+West Oakland,"2520 WADSWORTH ST, PITTSBURGH, PA 15213",25,2520 Wadsworth Street,Yes,6,2017
+Upper Lawrenceville,"5515 BUTLER ST, PITTSBURGH, PA 15201",68,Mews on Butler,Yes,6,2017
+Squirrel Hill South,"2609 MURRAY AVE, PITTSBURGH, PA 15217",33,Krause Commons,Yes,5,2017
+Central Business District,"319 3RD AVE, PITTSBURGH, PA 15222",90,Keystone Flats,Yes,5,2017
+East Liberty,"6251 BROAD ST, PITTSBURGH, PA 15206",46,Fairfield Apartments ,Yes,5,2017
+Shadyside,"6133 SPIRIT ST, PITTSBURGH, PA 15206",175,Eastside Bond Apartments,Yes,10,2016
+Strip District,"1909 WATERFRONT DR, PITTSBURGH, PA 15222",364,Edge 1909,Yes,7,2016
+North Oakland,"4500 CENTRE AVE, PITTSBURGH, PA 15213",326,One on Centre,Yes,7,2016
+Lower Lawrenceville,"3927 BUTLER ST, PITTSBURGH, PA 15201",243,Arsenal 201 Phase 1,Yes,6,2016
+Friendship,"5522 BAUM BLVD, PITTSBURGH",127,Baumhaus Apartments,Yes,6,2016
+Central Business District,"112 WASHINGTON PL, PITTSBURGH, PA 15219",174,The Washington at Chatham,Yes,4,2016
+Central Lawrenceville,"4107 WILLOW ST, PITTSBURGH, PA 15201",182,The Foundry at 41st,Yes,2,2016
+North Shore,"950 PROGRESS ST, PITTSBURGH, PA 15212",151,The Preserve at Heinz,Yes,1,2016
+East Liberty,"5719 E LIBERTY BLVD, PITTSBURGH, PA 15206",26,,Yes,12,2015
+Larimer,"213 LARIMER AVE, PITTSBURGH, PA 15206",28,Cornerstone Village,Yes,12,2015
+Terrace Village,"1802 BENTLEY DR, PITTSBURGH, PA 15219",54,Skyline Terrace,Yes,12,2015
+Bluff,"1030 5TH AVE, PITTSBURGH, PA 15219",36,Union on Fifth,Yes,11,2015
+Strip District,"2419 SMALLMAN, PITTSBURGH, PA 15222",38,NAME UNKNOWN - SOLARA VENTURES,Yes,10,2015
+South Side Flats,"2626 TUNNEL BLVD, PITTSBURGH, PA 15203",264,2626 South Side Flats,Yes,10,2015
+South Oakland,"3333 FORBES AVE, PITTSBURGH, PA 15213",389,SkyVue,Yes,10,2015
+Strip District,"2645 RAILROAD ST, PITTSBURGH, PA 15222",299,The Yard at 3 Crossings,Yes,9,2015
+Bloomfield,"4800 PENN AVE, PITTSBURGH, PA 15224",39,Penn Mathilda,Yes,9,2015
+Crawford-Roberts,"1655 5TH AVE, PITTSBURGH, PA 15219",74,Flats on Fifth,Yes,9,2015
+Upper Lawrenceville,"5267 HOLMES ST, PITTSBURGH, PA 15201",25,McCleary School Condos,Yes,8,2015
+South Side Flats,"711 S 21ST ST, PITTSBURGH, PA 15203",76,Brew House Artist Lofts,Yes,8,2015
+East Liberty,"111 S HIGHLAND AVE, PITTSBURGH, PA 15206",78,The Penn at Walnut on Highland,Yes,8,2015
+Central Business District,"911 PENN AVE, PITTSBURGH, PA 15222",167,Penn Garrison,Yes,1,2015
+South Side Flats,3030 S SOUTH WATER ST,56,3030 South Water Street,Yes,10,2014
+Shadyside,6230 PENN AVE,251,Eastside Bond Apartments,Yes,10,2014
+Shadyside,"6454 LIVING PL, PITTSBURGH, PA 15206",175,Bakery Living Blue,Yes,9,2014
+South Side Flats,"2915 SIDNEY ST, PITTSBURGH, PA, 15203",117,Hot Metal Flats ,Yes,6,2014
+Shadyside,"177 S HIGHLAND AVE, PITTSBURGH, PA 15206",109,Eastside Bond Apartments,Yes,6,2014
+Central Lawrenceville,"301 -375 WINESAP DR, PITTSBURGH, PA 15201",36,Lawrenceville Place,Yes,5,2014
+Bloomfield,"5250 LIBERTY AVE, PITTSBURGH, PA 15224",213,Albion at Morrow Park,Yes,5,2014
+Crawford-Roberts,"2076 5TH AVE, PITTSBURGH, PA, 15219",23,Uptown Lofts on Fifth South,Yes,12,2013
+Crawford-Roberts,"2015 5TH AVE, PITTSBURGH, PA, 15219",24,Uptown Lofts on Fifth North,Yes,12,2013
+Central Business District,"717 LIBERTY AVE, PITTSBURGH, PA 15222",239,The Clark Building,Yes,8,2013
+Bluff,"1819 FORBES AVE, PITTSBURGH, PA 15219",43,Mackey Lofts,Yes,6,2013
+Shadyside,"6480 LIVING PL, PITTSBURGH, PA 15206",175,Bakery Living Orange,Yes,6,2013
+Central Lawrenceville,"141 41ST ST, PITTSBURGH, PA 15201",20,Catalyst Lofts,Yes,5,2013
+Central Business District,"909 PENN AVE, PITTSBURGH, PA 15222",27,Lando Lofts,Yes,3,2013
+Shadyside,"430 SHADY AVE, PITTSBURGH, PA 15206",20,,Yes,3,2013
+East Liberty,"5800 PENN AVE, PITTSBURGH, PA 15206",52,East Liberty Place South,Yes,2,2013
+Mount Washington,"200 COWAN ST, PITTSBURGH, PA, 15211",67,Lofts of Mount Washington,Yes,2,2013
+Central Business District,526 PENN AVE,72,526 PENN AVE,Yes,12,2012
+Lower Lawrenceville,"3459 BUTLER ST, PITTSBURGH, PA 15201",45,The Square on Butler,Yes,10,2012
+Squirrel Hill South,"1823 PARKVIEW BLVD, PITTSBURGH, PA 15217",24,The Gateway at Summerset,Yes,6,2012
+Squirrel Hill South,"1843 PARKVIEW BLVD, PITTSBURGH, PA 15217",12,The Gateway at Summerset,Yes,6,2012
+Squirrel Hill South,"1875 PARKVIEW BLVD, PITTSBURGH, PA 15217",24,The Gateway at Summerset,Yes,6,2012
+Squirrel Hill South,,23,The Gateway at Summerset,Yes,6,2012
+Squirrel Hill South,,24,The Gateway at Summerset,Yes,6,2012
+Squirrel Hill South,,24,The Gateway at Summerset,Yes,6,2012
+Central Lawrenceville,"4840 HARRISON ST, PITTSBURGH, PA 15201",34,Locomotive Lofts,Yes,5,2012
+South Side Flats,"930 E CARSON ST, PITTSBURGH, PA 15203",76,RESIDENCES AT SOUTH HIGH,Yes,5,2012
