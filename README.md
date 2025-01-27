@@ -1,5 +1,5 @@
 # pittsburgh_iz
-[The Effects of Inclusionary Zoning on New Housing Construction in Pittsburgh](The_Effects_of_Inclusionary_Zoning_on_New_20__Unit_Housing_Projects_in_Pittsburgh_FINAL_01262024.pdf)
+[The Effects of Inclusionary Zoning on New Housing Construction in Pittsburgh](The_Effects_of_Inclusionary_Zoning_on_New_20__Unit_Housing_Projects_in_Pittsburgh_FINAL_01262025.pdf)
 
 **Abstract**
 
